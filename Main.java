@@ -1,6 +1,6 @@
 /*
  * Tai Smith
- * COMP 360
+ * 
  * November 28, 2020
  *
  * Java Program: An airplane ticket reservation system for Test Company Airline.
